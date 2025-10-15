@@ -6,7 +6,7 @@ window.webConfigApi = {
   whatsapp: '000-000-0000',
   facebook: 'https://www.facebook.com/',
   instagram: 'https://www.instagram.com/',
-  PUBLIC_KV_URL: 'https://ocs.ai4funs.com/pwtk49prd’,
+  PUBLIC_KV_URL: 'https://ocs.ai4funs.com/pwtk49prd',
   VITE_PROXY_UPLOAD: 'https://upload.tkonline.cc',
   VITE_SERVER_CALLBACK: 'https://tk2cdn.ai4funs.com/',
   VITE_CDN_URL: 'https://tk2cdn.ai4funs.com/',
