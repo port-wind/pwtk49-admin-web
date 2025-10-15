@@ -1,11 +1,12 @@
 window.webConfigApi = {
-  apiPath: 'https://admin.tkonline.cc',
+  apiPath: 'https://admin49.tkonline.cc',
+  apiPathBeforeLogin: './',
   logoPath: 'https://stt.pwtk.cc/devmedia/photossys/guarantee/img/24/11/18/6452534cc56f4a86a754f89e0407c457.png',
   phone: '000-000-0000',
   whatsapp: '000-000-0000',
   facebook: 'https://www.facebook.com/',
   instagram: 'https://www.instagram.com/',
-  PUBLIC_KV_URL: 'https://ocs.ai4funs.com/pwtkprd',
+  PUBLIC_KV_URL: 'https://ocs.ai4funs.com/pwtk49prd’,
   VITE_PROXY_UPLOAD: 'https://upload.tkonline.cc',
   VITE_SERVER_CALLBACK: 'https://tk2cdn.ai4funs.com/',
   VITE_CDN_URL: 'https://tk2cdn.ai4funs.com/',
@@ -19,6 +20,5 @@ window.webConfigApi = {
   VITE_TASK_LIVE_DOMAIN: 'https://video-room-bot.pwtk.cc',
   VITE_AUDIO_CONVERT_TOOL_DOMAIN: 'https://towav.fastchatchat.com',
   version: '1.2.29',
-  appName: '6gallery'
+  appName: '49gallery'
 }
-
